@@ -18,7 +18,8 @@
 
 
 ### Creature Stats:
-
+   ![alt text](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/MaleStats.PNG "Male Creature and its stats")
+   
    * :zap: **Speed**:
    
      - *The overall speed of the creature*;
