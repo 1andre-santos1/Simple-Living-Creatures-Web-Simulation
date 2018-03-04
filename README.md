@@ -4,24 +4,24 @@
 
 ### Creature Stats:
 
-   * Speed:
+   * :zap: Speed:
    
      - The overall speed of the creature;
      - Having more speed increases the chance to get a mate, to reproduce and get food;
 
-   * Health: 
+   * :heart: Health: 
    
      - The overall health of the creature;
      - This stat decreases over time and can be increased by eating food;
      - When 0 the creature dies;
 
-   * Age: 
+   * :older_man: Age: 
    
      - The "age" of the creature;
      - The life of all creatures is divided in two phases: Child and Adult;
      - Childs can't reproduce;
 
-   * State: 
+   * :game_die: State: 
      
      - The actual state of the creature;
      - Divided in three states: 
