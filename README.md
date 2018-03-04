@@ -9,9 +9,9 @@
 ### Creature Type:          
 #### The creatures can be Male (Blue Squares), Female (Pink Squares) or a Predator(Grey Squares) with little differences between them.
 <p align="center">
-      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/Male.PNG">
-      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/Female.PNG">
-      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/Predator.PNG">
+      <img width="200" height="150" src="https://image.ibb.co/jpwohn/Male.png">
+      <img width="200" height="150" src="https://image.ibb.co/kfrM2n/Female.png">
+      <img width="200" height="150" src="https://image.ibb.co/jtsuNn/Predator.png">
    </p>
 
    * *Males in general have more speed than Females*;
@@ -27,10 +27,10 @@
 
 ### Creature Stats:
    <p align="center">
-      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/MaleStats.PNG">
-      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/FemaleStats.PNG">
-      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/FemaleStats2.PNG">
-      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/MaleStats2.PNG">
+      <img width="200" height="150" src="https://image.ibb.co/ksHiF7/Male_Stats.png">
+      <img width="200" height="150" src="https://image.ibb.co/hi9Vv7/Female_Stats.png">
+      <img width="200" height="150" src="https://image.ibb.co/dP53F7/Female_Stats2.png">
+      <img width="200" height="150" src="https://image.ibb.co/iqNuNn/Male_Stats2.png">
    </p>
    
    * :zap: **Speed**:
@@ -64,7 +64,7 @@
 #### You can interact with the creature's world:
 
    <p align="left">
-      <img width="600" height="200" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/DropdownMenu.png">   
+      <img width="600" height="200" src="https://image.ibb.co/bPiqv7/Dropdown_Menu.png">   
    </p>
    
    * Top Left - **Dropdown Menu**:
