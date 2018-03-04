@@ -76,14 +76,14 @@
             
 ### Files:
            
-   * index.html           - Open this file on a web browser to run this web application.
-   * style.css            - All the css styling used in this application is inside this file.
-   * AppManager.js        - Manages all the processes needed for the simulation world.
-   * CreatureManager.js   - Manages all the different creatures. (movement,drawing,etc.)
-   * DrawManager.js       - Contains all the drawing functions.
-   * Creature.js          - Blueprint for all the different creatures.
-   * MaleCreature.js      - Blueprint for all the Male creatures.
-   * FemaleCreature.js    - Blueprint for all the Female creatures.
-   * Predator.js          - Blueprint for all the Predator creatures.
-   * FoodManager.js       - Manages all the food present in the world.
-   * Food.js              - Blueprint for all the food.
+   * [index.html](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/index.html)           - Open this file on a web browser to run this web application.
+   * [style.css](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/style.css)            - All the css styling used in this application is inside this file.
+   * [AppManager.js](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/AppManager.js)        - Manages all the processes needed for the simulation world.
+   * [CreatureManager.js](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/CreatureManager.js)   - Manages all the different creatures. (movement,drawing,etc.)
+   * [DrawManager.js](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/DrawManager.js)       - Contains all the drawing functions.
+   * [Creature.js](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/Creature.js)          - Blueprint for all the different creatures.
+   * [MaleCreature.js](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/MaleCreature.js)     - Blueprint for all the Male creatures.
+   * [FemaleCreature.js](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/FemaleCreature.js)    - Blueprint for all the Female creatures.
+   * [Predator.js](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/Predator.js)          - Blueprint for all the Predator creatures.
+   * [FoodManager.js](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/FoodManager.js)       - Manages all the food present in the world.
+   * [Food.js](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/Food.js)             - Blueprint for all the food.
