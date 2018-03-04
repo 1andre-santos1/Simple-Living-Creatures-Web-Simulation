@@ -6,29 +6,29 @@
 
    * :zap: **Speed**:
    
-     - The overall speed of the creature;
-     - Having more speed increases the chance to get a mate, to reproduce and get food;
+     - *The overall speed of the creature*;
+     - *Having more speed increases the chance to get a mate, to reproduce and get food*;
 
    * :heart: **Health**: 
    
-     - The overall health of the creature;
-     - This stat decreases over time and can be increased by eating food;
-     - When 0 the creature dies;
+     - *The overall health of the creature*;
+     - *This stat decreases over time and can be increased by eating food*;
+     - *When 0 the creature dies*;
 
    * :older_man: **Age**: 
    
-     - The "age" of the creature;
-     - The life of all creatures is divided in two phases: Child and Adult;
-     - Childs can't reproduce;
+     - *The "age" of the creature*;
+     - *The life of all creatures is divided in two phases: Child and Adult*;
+     - *Childs can't reproduce*;
 
    * :game_die: **State**: 
      
-     - The actual state of the creature;
-     - Divided in three states: 
+     - *The actual state of the creature*;
+     - *Divided in three states*: 
      
-       - **Roaming** - when the creature is normal, just searching for food and mates,
-       - **Pregnant** - observable only in females, while pregnant (the growing circle inside them indicates the baby state)
-       - **Dying** - when the creature's health is below 40, the state changes to dying;
+       - **Roaming** - *when the creature is normal, just searching for food and mates*;
+       - **Pregnant** - *observable only in females, while pregnant*; (the growing circle inside them indicates the baby state)
+       - **Dying** - *when the creature's health is below 40, the state changes to dying*;
        
 ### Creature Type:          
 #### The creatures can be Male (Blue Squares), Female (Pink Squares) or a Predator(Grey Squares) with little differences between them.
