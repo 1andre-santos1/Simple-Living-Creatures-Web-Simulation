@@ -60,7 +60,7 @@
 ### User Interaction:
 #### You can interact with the creature's world:
 
-   <p align="center">
+   <p align="left">
       <img width="600" height="200" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/DropdownMenu.png">   
    </p>
    
@@ -77,7 +77,11 @@
      - **SPAWN FEMALE CREATURE** - *when selected you can tap on the world to spawn a female creature*; 
 
      - **SPAWN PREDATOR** - *when selected you can tap on the world to spawn a predator*; 
-
+     
+   <p align="left">
+      <img width="600" height="200" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/AutoFeed.png">   
+   </p>
+   
    * Top Right - **Checkbox**:
 
      - **AUTO - FEED**: *when checked, random food will be appearing on the creature's word on a timed interval*;
