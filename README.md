@@ -61,7 +61,7 @@
 #### You can interact with the creature's world:
 
    <p align="center">
-      <img width="400" height="200" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/DropdownMenu.png">   
+      <img width="600" height="200" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/DropdownMenu.png">   
    </p>
    
    * Top Left - **Dropdown Menu**:
