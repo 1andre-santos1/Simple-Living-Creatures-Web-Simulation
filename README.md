@@ -69,3 +69,21 @@ This simple web application tries to emulate a simple ecossystem where creatures
             * You can start a new simulation if you select the restart option on the top left dropdown;
 
             * Have fun!
+            
+    *** Files:
+           
+           * index.html           - Open this file on a web browser to run this web application.
+           * style.css            - All the css styling used in this application is inside this file.
+           * AppManager.js        - Manages all the processes needed for the simulation world.
+           * UIManager.js         - Manages all the interactions between the user and the User Interface.
+           * CreatureManager.js   - Manages all the different creatures. (movement,drawing,etc.)
+           * DrawManager.js       - Contains all the drawing functions.
+           * Creature.js          - Blueprint for all the different creatures.
+           * MaleCreature.js      - Blueprint for all the Male creatures.
+           * FemaleCreature.js    - Blueprint for all the Female creatures.
+           * Predator.js          - Blueprint for all the Predator creatures.
+           * FoodManager.js       - Manages all the food present in the world.
+           * Food.js              - Blueprint for all the food.
+           
+           *
+           *  
