@@ -4,31 +4,31 @@
 
 ### Creature Stats:
 
-   * :zap: Speed:
+   * :zap: **Speed**:
    
      - The overall speed of the creature;
      - Having more speed increases the chance to get a mate, to reproduce and get food;
 
-   * :heart: Health: 
+   * :heart: **Health**: 
    
      - The overall health of the creature;
      - This stat decreases over time and can be increased by eating food;
      - When 0 the creature dies;
 
-   * :older_man: Age: 
+   * :older_man: **Age**: 
    
      - The "age" of the creature;
      - The life of all creatures is divided in two phases: Child and Adult;
      - Childs can't reproduce;
 
-   * :game_die: State: 
+   * :game_die: **State**: 
      
      - The actual state of the creature;
      - Divided in three states: 
      
-       - Roaming - when the creature is normal, just searching for food and mates,
-       - Pregnant - observable only in females, while pregnant (the growing circle inside them indicates the baby state)
-       - Dying - when the creature's health is below 40, the state changes to dying;
+       - **Roaming** - when the creature is normal, just searching for food and mates,
+       - **Pregnant** - observable only in females, while pregnant (the growing circle inside them indicates the baby state)
+       - **Dying** - when the creature's health is below 40, the state changes to dying;
        
 ### Creature Type:          
 #### The creatures can be Male (Blue Squares), Female (Pink Squares) or a Predator(Grey Squares) with little differences between them.
@@ -46,23 +46,23 @@
 ### User Interaction:
 #### You can interact with the creature's world:
 
-   * Top Left - Dropdown Menu:
+   * Top Left - **Dropdown Menu**:
    
-     - RESTART - restart the creature's world;
+     - **RESTART** - restart the creature's world;
 
-     - FEED - when selected you can tap on the world to spawn a food to feed the creatures;
+     - **FEED** - when selected you can tap on the world to spawn a food to feed the creatures;
 
-     - SPAWN RANDOM CREATURE - when selected you can tap on the world to spawn a random creature (Male or Female); 
+     - **SPAWN RANDOM CREATURE** - when selected you can tap on the world to spawn a random creature (Male or Female); 
 
-     - SPAWN MALE CREATURE - when selected you can tap on the world to spawn a male creature; 
+     - **SPAWN MALE CREATURE** - when selected you can tap on the world to spawn a male creature; 
 
-     - SPAWN FEMALE CREATURE - when selected you can tap on the world to spawn a female creature; 
+     - **SPAWN FEMALE CREATURE** - when selected you can tap on the world to spawn a female creature; 
 
-     - SPAWN PREDATOR - when selected you can tap on the world to spawn a predator; 
+     - **SPAWN PREDATOR** - when selected you can tap on the world to spawn a predator; 
 
-   * Top Right - Checkbox:
+   * Top Right - **Checkbox**:
 
-     - AUTO - FEED: when checked, random food will be appearing on the creature's word on a timed interval;
+     - **AUTO - FEED**: when checked, random food will be appearing on the creature's word on a timed interval;
      
 ### Tips:
             
