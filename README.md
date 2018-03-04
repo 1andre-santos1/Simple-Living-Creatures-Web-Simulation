@@ -2,6 +2,21 @@
 
 ### This simple web application tries to emulate a simple ecossystem where creatures with a simple "intelligence", can "live".
 
+
+### Creature Type:          
+#### The creatures can be Male (Blue Squares), Female (Pink Squares) or a Predator(Grey Squares) with little differences between them.
+
+   * *Males in general have more speed than Females*;
+
+   * *Females in general have more health*;
+
+   * *A Female creature, when on field of view of a Male, can get pregnant. While in this state, the female can't get pregnant again. When the time to give birth comes, the female have equal probability of having a Male or a Female child*;
+
+   * *Predators can only be spawned by the user, they don't eat the creature's food, they eat the creatures as well as the other predators who have less health*;
+
+   * *The Predators have more speed than all the other creatures but have less health*;
+
+
 ### Creature Stats:
 
    * :zap: **Speed**:
@@ -29,19 +44,7 @@
        - **Roaming** - *when the creature is normal, just searching for food and mates*;
        - **Pregnant** - *observable only in females, while pregnant*; (the growing circle inside them indicates the baby state)
        - **Dying** - *when the creature's health is below 40, the state changes to dying*;
-       
-### Creature Type:          
-#### The creatures can be Male (Blue Squares), Female (Pink Squares) or a Predator(Grey Squares) with little differences between them.
 
-   * *Males in general have more speed than Females*;
-
-   * *Females in general have more health*;
-
-   * *A Female creature, when on field of view of a Male, can get pregnant. While in this state, the female can't get pregnant again. When the time to give birth comes, the female have equal probability of having a Male or a Female child*;
-
-   * *Predators can only be spawned by the user, they don't eat the creature's food, they eat the creatures as well as the other predators who have less health*;
-
-   * *The Predators have more speed than all the other creatures but have less health*;
 
 ### User Interaction:
 #### You can interact with the creature's world:
@@ -63,7 +66,8 @@
    * Top Right - **Checkbox**:
 
      - **AUTO - FEED**: *when checked, random food will be appearing on the creature's word on a timed interval*;
-     
+    
+    
 ### Tips:
             
    * *If you think that there's too many creatures, try to uncheck the auto-feed button, females with lower health are dying, and can't get pregnant. Other way is spawning a predator to eat the creatures, you can do this by selecting the SPAWN PREDATOR option on the top left dropdown menu*;
@@ -73,7 +77,8 @@
    * *You can start a new simulation if you select the restart option on the top left dropdown*;
 
    * **Have fun!**
-            
+   
+   
 ### Files:
            
    * [index.html](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/index.html)           - **Open this file on a web browser to run this web application**.
