@@ -84,6 +84,3 @@ This simple web application tries to emulate a simple ecossystem where creatures
            * Predator.js          - Blueprint for all the Predator creatures.
            * FoodManager.js       - Manages all the food present in the world.
            * Food.js              - Blueprint for all the food.
-           
-           *
-           *  
