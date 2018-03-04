@@ -18,7 +18,12 @@
 
 
 ### Creature Stats:
-   ![alt text](https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/MaleStats.PNG "Male Creature and its stats")
+   <p align="center">
+      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/MaleStats.PNG">
+      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/FemaleStats.PNG">
+      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/FemaleStats2.PNG">
+      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/MaleStats2.PNG">
+   </p>
    
    * :zap: **Speed**:
    
