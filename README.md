@@ -82,7 +82,7 @@
      - **SPAWN PREDATOR** - *when selected you can tap on the world to spawn a predator*; 
      
    <p align="left">
-      <img width="400" height="100" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/AutoFeed.PNG">   
+      <img width="400" height="100" src="https://image.ibb.co/iiMca7/AutoFeed.png">   
    </p>
    
    * Top Right - **Checkbox**:
