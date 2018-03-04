@@ -1,4 +1,7 @@
 # Simple-Living-Creatures-Web-Simulation
+<p align="center">
+      <img src="https://media.giphy.com/media/Av1Y3DEDs1kaaFE4dj/giphy.gif" width="700" height="200" />
+</p>
 
 ### This simple web application tries to emulate a simple ecossystem where creatures with a simple "intelligence", can "live".
 
