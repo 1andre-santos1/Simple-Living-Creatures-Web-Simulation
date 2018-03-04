@@ -5,6 +5,11 @@
 
 ### Creature Type:          
 #### The creatures can be Male (Blue Squares), Female (Pink Squares) or a Predator(Grey Squares) with little differences between them.
+<p align="center">
+      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/Male.PNG">
+      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/Female.PNG">
+      <img width="200" height="150" src="https://github.com/1andre-santos1/Simple-Living-Creatures-Web-Simulation/blob/master/Predator.PNG">
+   </p>
 
    * *Males in general have more speed than Females*;
 
